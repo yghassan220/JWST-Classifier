@@ -86,7 +86,7 @@ JWST-CLASS/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/jwst-classifier.git
+git clone https://github.com/yghassan220/jwst-classifier.git
 cd jwst-classifier
 
 # Create virtual environment and install dependencies
@@ -128,18 +128,6 @@ Open the project in Cursor or JupyterLab and run notebooks in order (01 → 04).
 **ML for Astronomy**
 - [Galaxy Zoo Paper](https://arxiv.org/abs/0803.0486) — Lintott et al., the foundation of morphology classification
 - [Zoobot Library](https://github.com/mwalmsley/zoobot) — Purpose-built galaxy morphology ML, great reference
-
----
-
-## Roadmap
-
-- [x] Project setup and environment
-- [ ] FITS data pipeline
-- [ ] Source detection with photutils
-- [ ] Galaxy Zoo dataset exploration
-- [ ] Transfer learning classifier
-- [ ] End-to-end pipeline
-- [ ] GitHub publish + write-up
 
 ---
 
