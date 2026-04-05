@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# uv
+.uv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data & FITS files (too large for git)
+*.fits
+*.fit
+*.fz
+*.gz
+data/
+downloads/
+
+# Models (too large for git)
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.cursor/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
